@@ -27,4 +27,3 @@ class App < Sinatra::Base
 
 end
 
-ç
