@@ -23,7 +23,8 @@ class App < Sinatra::Base
     answer 
   end
   
-  
+  get '/say/:number/:phrase' do 
+    
 
  
 
